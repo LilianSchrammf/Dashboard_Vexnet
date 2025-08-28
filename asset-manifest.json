@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dashboard_Vexnet/static/css/main.bd4676ff.css",
+    "main.js": "/dashboard_Vexnet/static/js/main.1a1e2b4c.js",
+    "index.html": "/dashboard_Vexnet/index.html",
+    "main.bd4676ff.css.map": "/dashboard_Vexnet/static/css/main.bd4676ff.css.map",
+    "main.1a1e2b4c.js.map": "/dashboard_Vexnet/static/js/main.1a1e2b4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd4676ff.css",
+    "static/js/main.1a1e2b4c.js"
+  ]
+}
